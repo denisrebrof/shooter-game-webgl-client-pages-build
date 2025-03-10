@@ -1,7 +1,13 @@
 
 ## Quick Start Guide 🚀
 
-### If you want to try this game on local machine, follow this steps:
+## 👩‍💻 If you want to check sources, open one of links in table below:
+|         |                                  Server                                   |                                     Client                                      |
+|:--------|:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
+| Stack   |                    Kotlin, RxJava, Spring Boot ,MySQL                     |                              C#, Unity, UniRX, JS                               |
+| Sources | [Server Sources Repo](https://github.com/denisrebrof/shooter-game-server) | [Client Sources Repo](https://github.com/denisrebrof/shooter-game-webgl-client) |
+
+## 🚀 If you want to try this game on local machine, follow this steps:
 
 Steps to run server locally:
 
@@ -34,8 +40,3 @@ Some time ago, I stopped supporting these projects on **WebGL** game platforms, 
 * UnLockable & Purchasable Weapons 🔫
 * Multiple game maps 🗺
 
-### Stack & Sources
-|         |                                  Server                                   |                                     Client                                      |
-|:--------|:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
-| Stack   |                    Kotlin, RxJava, Spring Boot ,MySQL                     |                              C#, Unity, UniRX, JS                               |
-| Sources | [Server Sources Repo](https://github.com/denisrebrof/shooter-game-server) | [Client Sources Repo](https://github.com/denisrebrof/shooter-game-webgl-client) |
